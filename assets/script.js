@@ -68,3 +68,5 @@ sugarMinusBtn.addEventListener('click', function() {
  })
 // TODO: Hook up event listeners for the rest of the buttons -- Done
  
+let totalQuant = document.querySelector('#qty-total')
+totalQuant.textContent = 
